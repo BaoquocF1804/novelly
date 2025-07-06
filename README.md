@@ -80,14 +80,4 @@ We welcome contributions from the community! If you'd like to contribute to Chap
 4. Push your changes to your fork.
 5. Submit a pull request to the `main` branch of the Chapterly repository.
 
-## 📬Contact
-
-If you have a PDF book that you'd like to contribute to Chapterly, or if you have any questions or concerns, please feel free to contact us at [info.pdfcafe@gmail.com](mailto:info.pdfcafe@gmail.com).
-
-## 📄License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Thank you for your interest in Chapterly! Happy Reading! ❤️
