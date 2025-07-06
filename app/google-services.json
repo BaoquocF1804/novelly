@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826209957731",
+    "project_id": "novelly-786fb",
+    "storage_bucket": "novelly-786fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826209957731:android:43899641e5f1b2c8468556",
+        "android_client_info": {
+          "package_name": "com.keru.novelly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlcvDY0QTCU3-fUwx2JyvR-iuJm9NxoZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
